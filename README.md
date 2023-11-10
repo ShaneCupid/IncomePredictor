@@ -32,10 +32,11 @@ The model's performance is evaluated on a test dataset to understand its predict
 
 ## Setup/Installation Requirements
 1. Install Python 3 from the [official website](https://www.python.org/downloads/).
-2. Install Jupyter Notebook, preferably through the Anaconda distribution. Instructions can be found [here](https://www.datacamp.com/community/tutorials/installing-jupyter-notebook).
-3. Install the required Python libraries with `pip install pandas numpy scikit-learn`.
-4. Clone this repository to your local environment.
-5. Navigate to the directory containing `Main.ipynb` and launch Jupyter Notebook with `jupyter notebook`.
+2. Download csv from [official website](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset). (If starting from scratch)
+3. Install Jupyter Notebook, preferably through the Anaconda distribution. Instructions can be found [here](https://www.datacamp.com/community/tutorials/installing-jupyter-notebook).
+4. Install the required Python libraries with `pip install pandas numpy scikit-learn`.
+5. Clone this repository to your local environment.
+6. Navigate to the directory containing `Main.ipynb` and launch Jupyter Notebook with `jupyter notebook`.
 
 ## Contact Information
 Please reach out to me for any questions or suggestions at [your email/contact].
